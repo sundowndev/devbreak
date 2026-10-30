@@ -1,6 +1,6 @@
 # Devbreak
 
-Don't use bookmarks, use [Devbreak](https://devbreak.fr/).
+Don't use bookmarks, use [Devbreak](https://devbreak.crvx.fr/).
 
 ### Contribute
 
